@@ -1,0 +1,15 @@
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\bin\Debug\net7.0\Example43.exe
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\bin\Debug\net7.0\Example43.deps.json
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\bin\Debug\net7.0\Example43.runtimeconfig.json
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\bin\Debug\net7.0\Example43.dll
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\bin\Debug\net7.0\Example43.pdb
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\Example43.csproj.AssemblyReference.cache
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\Example43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\Example43.AssemblyInfoInputs.cache
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\Example43.AssemblyInfo.cs
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\Example43.csproj.CoreCompileInputs.cache
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\Example43.dll
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\refint\Example43.dll
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\Example43.pdb
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\Example43.genruntimeconfig.cache
+C:\Users\gubin\OneDrive\Документы\Homework5\Example43\obj\Debug\net7.0\ref\Example43.dll
